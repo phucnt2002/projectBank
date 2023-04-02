@@ -3,3 +3,8 @@
 bin/
 src/Login.java
 src/EmployeeManagement.java
+src/com/example/bankmanagement/BankManagerReportViewer.java
+src/com/example/bankmanagement/BankManagerReportViewerImpl.java
+src/com/example/bankmanagement/Customer.java
+src/com/example/bankmanagement/CustomerTransactionManager.java
+src/com/example/bankmanagement/Transaction.java
